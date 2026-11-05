@@ -1,14 +1,16 @@
 <div align="center">
+  <img src="assets/header.png" width="100%" alt="Utsav Acharya - Profile Banner" />
+</div>
+
+<div align="center">
 
 # Hi 👋, I'm Utsav Acharya
-### A Computer Engineering Student from Nepal 🇳🇵
+
+### Computer Engineering Student from Nepal 🇳🇵
 
 **Build • Create • Explore**
 
-![Profile Views](https://komarev.com/ghpvc/?username=acharya-utsav&color=7c3aed&style=for-the-badge)
-
 </div>
-
 ---
 
 ## 👨‍💻 About Me
@@ -36,23 +38,25 @@
 
 ## 🛠️ Tech Stack
 
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
 ### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+</td>
+<td align="center" width="50%">
 
 ### 🌐 Web Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-### 🖥️ Desktop Development
-<p>
-  <img src="https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white" />
-</p>
+</td>
+</tr>
+</table>
 
 ### 🔧 Tools
 <p>
@@ -82,11 +86,9 @@ A C-based password vault demonstrating file handling, structures, and basic XOR 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=acharya-utsav&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=acharya-utsav&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acharya-utsav&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=acharya-utsav&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acharya-utsav&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -94,6 +96,6 @@ A C-based password vault demonstrating file handling, structures, and basic XOR 
 
 <div align="center">
 
-### ✨ Always learning, always building. 🚀
+✨ **Always learning, always building. 🚀**
 
 </div>
