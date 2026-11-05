@@ -1,15 +1,11 @@
 <div align="center">
-  <img src="assets/header.png" width="100%" alt="Utsav Acharya - Profile Banner" />
-</div>
+  <img src="header.png" width="100%" alt="Utsav Acharya - Profile Banner" />
 
-<div align="center">
+  <h1>Hi 👋, I'm Utsav Acharya</h1>
 
-# Hi 👋, I'm Utsav Acharya
+  <h3>Computer Engineering Student from Nepal 🇳🇵</h3>
 
-### Computer Engineering Student from Nepal 🇳🇵
-
-**Build • Create • Explore**
-
+  <p><b>Build • Create • Explore</b></p>
 </div>
 ---
 
@@ -29,34 +25,32 @@
   <a href="https://github.com/acharya-utsav">
     <img src="https://img.shields.io/badge/GitHub-acharya--utsav-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/utsav-acharya-/)">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+  <a href="https://www.linkedin.com/in/utsav-acharya-/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
 ### 💻 Programming Languages
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-</td>
-<td align="center" width="50%">
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 ### 🌐 Web Development
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-</td>
-</tr>
-</table>
+### 🖥️ Desktop Development
+<p>
+  <img src="https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+</p>
 
 ### 🔧 Tools
 <p>
@@ -78,7 +72,7 @@ A C++ console-based OOP project for managing disaster records, rescue teams, and
 ### 🔐 C-Krypt
 A C-based password vault demonstrating file handling, structures, and basic XOR encryption.
 
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)]([YOUR_C_KRYPT_REPOSITORY_URL](https://github.com/acharya-utsav/C-Krypt))
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/acharya-utsav/C-Krypt)
 
 ---
 
