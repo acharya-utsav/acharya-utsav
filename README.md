@@ -16,7 +16,6 @@
 - 🎓 Computer Engineering student at IOE, Tribhuvan University
 - 🌱 Currently learning C, C++, JavaScript, and Object-Oriented Programming
 - 💻 Building web and desktop applications
-- 📸 Founder and Brand Strategist at Utsav Unfolded
 - 🤝 Interested in collaborating on creative and software projects
 - 🚀 Always exploring and learning new technologies
 
