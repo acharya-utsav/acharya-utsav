@@ -90,6 +90,6 @@ A C-based password vault demonstrating file handling, structures, and basic XOR 
 
 <div align="center">
 
-✨ **Always learning, always building. 🚀**
+ **Always learning, always building. **
 
 </div>
