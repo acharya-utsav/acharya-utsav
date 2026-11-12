@@ -38,6 +38,7 @@
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
@@ -74,6 +75,9 @@ A C-based password vault demonstrating file handling, structures, and basic XOR 
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/acharya-utsav/C-Krypt)
 
+### 🛡️ Bhram — Phishing Website Detection System
+A Python-based cybersecurity project designed to identify suspicious and phishing URLs, initially focusing on fake Nepali payment and banking websites.
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/acharya-utsav/bhram)
 ---
 
 ## 📊 GitHub Stats
