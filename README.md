@@ -96,6 +96,6 @@ A Python-based cybersecurity project designed to identify suspicious and phishin
 
 <div align="center">
 
- **Always learning, always building. **
+ <h3>Always learning, always building.</h3>
 
 </div>
