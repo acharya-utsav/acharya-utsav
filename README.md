@@ -97,5 +97,8 @@ A Python-based cybersecurity project designed to identify suspicious and phishin
 <div align="center">
 
  <h6>Always learning, always building.</h6>
+Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=acharya-utsav&color=111111&style=flat-square)
 
 </div>
