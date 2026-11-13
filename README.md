@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.png" width="100%" alt="Utsav Acharya - Profile Banner" />
+  <img src="header.png" width="90%" alt="Utsav Acharya - Profile Banner" />
 
   <h1>Hi 👋, I'm Utsav Acharya</h1>
 
