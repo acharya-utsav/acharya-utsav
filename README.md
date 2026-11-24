@@ -117,15 +117,6 @@ At the moment, I'm focusing on getting the fundamentals right:
 
 I want to understand not just how to write software, but also how to deploy it, maintain it, and keep it secure.
 
-## GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://ghstats.dev/api/card?username=acharya-utsav&theme=tokyonight" alt="GitHub Stats" />
-<img width="48%" src="https://ghstats.dev/api/langs?username=acharya-utsav&theme=tokyonight&layout=compact" alt="Most Used Languages" />
-
-</div>
-
 ---
 
 <div align="center">
